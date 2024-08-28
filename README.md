@@ -5,3 +5,5 @@ NPM: 2306223906
 Kelas: PBP E
 
 Hobi: Tidur
+
+Jurusan: Ilmu komputer
