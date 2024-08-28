@@ -1,5 +1,5 @@
-Nama : Muhammad Wendy Fyfo Anggara
+Nama: Muhammad Wendy Fyfo Anggara
 
-NPM : 2306223906
+NPM: 2306223906
 
-Kelas : PBP E
+Kelas: PBP E
